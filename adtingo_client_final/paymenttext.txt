@@ -1,0 +1,18 @@
+1----50.03
+campaign id ->424
+payment status ->Credit card number is invalid.
+1----50.03
+campaign id ->424
+payment status ->Credit card number is invalid.
+1----50.03
+campaign id ->424
+payment status ->Credit card number is invalid.
+1----50.03
+campaign id ->424
+payment status ->Credit card number is invalid.
+1----50.03
+campaign id ->424
+payment status ->Credit card number is invalid.
+1----50.03
+campaign id ->424
+payment status ->Credit card number is invalid.

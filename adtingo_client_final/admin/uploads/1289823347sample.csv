@@ -1,0 +1,4 @@
+Name,Lastname,Email,Home City,Date of Birth,Gender,Zipcode,Education,Income,Interest,Metropolitian Area
+test1,test,test@test.com,test,1984/09,male,50000,Highschool,"Below $25,000",style,"Dallas,Boston,Atlanta,test123"
+tes2,test,test2@test2.com,test,1984/04,female,50001,Some College,"$25,000 to $50,000",Travel,"Miami,Boston"
+test3,test,test3@test.com,test,1984/04,male,50005,In College,"$100,000 or more",entertainment,Boston
