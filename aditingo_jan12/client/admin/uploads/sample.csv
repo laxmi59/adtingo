@@ -1,0 +1,25 @@
+Name,Lastname,Email,Username,Home City,Date of Birth,Gender,Zipcode,Education,Income,Interest,Metropolitian Area
+test1,test,test@test.com,test1,test,1984/09,M,50000,Highschool,>30000 AND <40000,style,"Boston123,test,test123,test1234"
+tes2,test,test2@test2.com,test2,test,1984/04,F,50001,Some College,>30000 AND <40000,test,"Boston21,test22,test23,test211"
+test3,test,test3@test.com,test3,test,1984/04,M,50005,In College,>20000 AND <30000,entertainment,"Boston31,test31,test32,test33"
+
+
+
+
+Date Of Birth (YYYY?MM),Gender ,Education,Income,Metropolitan Areas,,Interest,,,,,
+1975/03,male,Highschool,>10000 AND <20000,Atlanta,,Food and Dinning,,,,,
+,female,Some College,>20000 AND <30000,Austin,,Style,,,,,
+,,In College,>30000 AND <40000,Boston,,Entertainment,,,,,
+,,College Graduate,>40000 AND <50000,Chicago,,Travel,,,,,
+,,,,Dallas,,Nightlife,,,,,
+,,,,Hamptons,,Home and Garden,,,,,
+,,,,Las Vegas,,Electronics and Gadgets,,,,,
+,,,,London,,Dating
+,,,,Los Angeles,,Nightlife
+,,,,Miami,,Sports and Fitness
+,,,,New York,,Career and Money
+,,,,Philadelphia,,Cars
+,,,,San Diego,,Health and Beauty
+,,,,San Francisco,,
+,,,,Seattle,,
+,,,,Washington DC,,

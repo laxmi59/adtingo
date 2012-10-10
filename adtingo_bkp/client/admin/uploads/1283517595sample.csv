@@ -1,0 +1,4 @@
+Name,Lastname,Email,Username,Home City,Date of Birth,Gender,Zipcode,Education,Income,Interest,Metropolitian Area
+test1,test,test@test.com,test1,test,1984/09,M,50000,Highschool,>30000 AND <40000,style,"Boston123,test,test123,test1234"
+tes2,test,test2@test2.com,test2,test,1984/04,F,50001,Some College,>30000 AND <40000,test,"Boston21,test22,test23,test211"
+test3,test,test3@test.com,test3,test,1984/04,M,50005,In College,>20000 AND <30000,entertainment,"Boston31,test31,test32,test33"

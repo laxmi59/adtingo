@@ -1,0 +1,26 @@
+First Name,Last Name,Email,Username,Home City,Date of Birth,Gender,Zipcode,Education,Income,Metropolitian Area
+test1,test,test@test.com,test1,California,1984/09,M,10001,Btech,"10,000","Atlanta,Austin,Boston"
+tes2,test,test2@test2.com,test2,Dallas,1984/04,F,10002,MCA,4000,"Atlanta,Austin,Boston"
+test3,test,test3@test.com,test3,Chicago,1984/04,M,10003,MBA,2000,"Atlanta,Austin,Boston"
+
+
+
+
+
+Date Of Birth (YYYY?MM),Gender ,Eduction,Income,Metropolitan Areas,,,,,,
+1975/03,Male,,,Atlanta,,,,,,
+,Female,,,Austin,,,,,,
+,,,,Boston,,,,,,
+,,,,Chicago,,,,,,
+,,,,Dallas,,,,,,
+,,,,Hamptons,,,,,,
+,,,,Las Vegas
+,,,,London
+,,,,Los Angeles
+,,,,Miami
+,,,,New York
+,,,,Philadelphia
+,,,,San Diego
+,,,,San Francisco
+,,,,Seattle
+,,,,Washington DC
