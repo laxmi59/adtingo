@@ -1,0 +1,25 @@
+Name,Lastname,Email,Home City,Date of Birth,Gender,Zipcode,Education,Income,Interest,Metropolitian Area
+test1,test,test@test.com,test,1984/09,male,50000,Highschool,"Below $25,000",style,Boston
+tes2,test,test2@test2.com,test,1984/04,female,50001,Some College,"$25,000 to $50,000",Travel,Boston
+test3,test,test3@test.com,test,1984/04,male,50005,In College,"$100,000 or more",entertainment,Boston
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Date Of Birth (YYYY?MM),Gender ,Education,Income,Metropolitan Areas,,Interest,,,,
+1975/03,male,Highschool,"Below $25,000",Atlanta,,Food and Dinning,,,,
+,female,Some College,"$25,000 to $50,000",Austin,,Style,,,,
+,,In College,"$50,000 to $75,000",Boston,,Entertainment,,,,
+,,College Graduate,"$75,000 to $100,000",Chicago,,Travel,,,,
+,,,"$100,000 or more",Dallas,,Nightlife,,,,
+,,,,Hamptons,,Home and Garden,,,,
+,,,,Las Vegas,,Electronics and Gadgets,,,,
+,,,,London,,Dating,,,,
+,,,,Los Angeles,,Nightlife,,,,
+,,,,Miami,,Sports and Fitness,,,,
+,,,,New York,,Career and Money,,,,
+,,,,Philadelphia,,Cars,,,,
+,,,,San Diego,,Health and Beauty,,,,
+,,,,San Francisco,,,,,,
+,,,,Seattle,,,,,,
+,,,,Washington DC,,,,,,

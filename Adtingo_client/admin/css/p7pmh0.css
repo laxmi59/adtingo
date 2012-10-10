@@ -1,0 +1,159 @@
+#p7PMnav {
+	margin: 0 0 0 10px;
+	padding:0;
+	float:left;
+	 
+}
+#p7PMnav li {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	float:left;
+	
+}
+#p7PMnav ul {
+	margin: 0;
+	padding: 0;
+	background-color: tranparent; 
+	position: absolute;
+	left: -9000px;
+	z-index: 10000;
+	 
+}
+#p7PMnav a { 
+	display: block;
+	text-decoration: none;
+	padding: 4px 5px;
+	color: #f60;
+	line-height:1;
+	font-size:12px;
+}
+#p7PMnav a:hover, #p7PMnav a:active, #p7PMnav a:focus {
+	background-color: #2e80ba; 
+	letter-spacing: .01px;
+	padding:0 14px;
+}
+#p7PMnav ul a:hover, #p7PMnav a:active, #p7PMnav a:focus {
+	background-color: #2e80ba;
+	color: #FFFFFF;
+	letter-spacing: .01px;
+}
+/* ------ the current page marker style ------
+#p7PMnav .p7PMmark {
+	color: #333333;
+} */
+/* ------ the trigger link styles ------- */
+
+/*the trigger link */
+#p7PMnav ul .p7PMtrg, #p7PMnav ul .p7PMon {
+	/*background-image:    url("../imgs/dark_east.gif");*/
+	background-repeat:	no-repeat;
+	background-position: right center;
+}
+/* the active trigger link style */
+#p7PMnav .p7PMon {
+	background-color: #2e80ba;
+	color: #000;
+}
+/*the submenu classes */
+
+#p7PMnav .p7PMhide {
+	left: -9000px;
+}
+#p7PMnav .p7PMshow {
+	left: auto;
+	z-index: 20000 !important;
+}
+/* Top level menu width */
+#p7PMnav li {
+	float: left; 
+}
+
+#p7PMnav  li#a1 {
+	float: left;
+	width: 90px;
+}
+#p7PMnav  li#a2 {
+	float: left;
+	width: 80px;
+}
+#p7PMnav  li#a3 {
+	float: left;
+	width: 80px;
+
+}
+#p7PMnav  li#a4 {
+	float: left;
+	width: 45px;
+}
+#p7PMnav  li#a5 {
+	float: left;
+	width: 83px;
+}
+#p7PMnav  li#a6 {
+	float: left;
+	width: 65px;
+}
+#p7PMnav  li#a7 {
+	float: left;
+	width: 75px;
+}
+#p7PMnav ul li {
+	float: none;
+}
+#p7PMnav ul, #p7PMnav ul li {
+	width: 162px;
+}
+#p7PMnav li#a7 ul,#p7PMnav li#a7 ul li{
+	width: 109px;
+}
+#pmmcrumb {
+	font-weight: bold;
+	margin-bottom: 16px;
+	color: #333333;
+}
+#pmmcrumb a, #pmmcrumb a:visited {
+	font-weight: normal;
+	color: #535FAC;
+}
+#pmmcrumb a:hover, #pmmcrumb a:active, #pmmcrumb a:focus {
+	font-weight: normal;
+	color: #333333;
+}
+#p7PMnav li  ul {
+background-color:#666
+}
+ /*ul#p7PMnav li{ background-color:#ccc; }*/
+
+#p7PMnav { float:left; text-align:left !important;   float:left;}
+
+/************** ALL LEVELS  *************/ /* Style consistent throughout all nav levels */
+#p7PMnav li {   text-align:left !important; float:left !important; }
+#p7PMnav li.over { z-index:99; }
+#p7PMnav li.active { z-index:100; } /* to prevent the li separator from showing through on mouseover on li */
+#p7PMnav a,
+#p7PMnav a:hover { display:block; text-decoration:none; }
+#p7PMnav span { display:block; /*cursor:pointer;*/ }
+#p7PMnav a { line-height:1.3em; }
+
+
+/************ 1ST LEVEL  ***************/
+#p7PMnav li {   background:url(../images/nav1_sep.gif) no-repeat 100% 0; text-align:left !important;  float:left; display:block;}
+#p7PMnav li.active { margin-left:-1px; background:url(../images/nav1_active.gif) no-repeat; color:#fff; font-weight:bold;  }
+#p7PMnav li.active em {   position:absolute; top:0; right:-1px; width:3px; height:27px; background:url(../images/nav1_active.gif) no-repeat 100% 0; }
+#p7PMnav a {  padding:0 14px; color:#fff; line-height:27px; text-align:left !important;}
+#p7PMnav ul li a{padding:0 14px; color:#fff; line-height:27px; text-align:left !important;}
+#p7PMnav ul li a:hover{padding:0 14px; color:#fff; text-align:left !important;}
+
+#p7PMnav a.selected { 
+	display: block;
+	text-decoration: none;
+	background-color: #2e80ba;
+	line-height:1;
+	font-size:12px;
+	padding:0 14px; 
+	color:#fff; 
+	line-height:27px; 
+}
+
+.bluefont{color:#0066FF;}
