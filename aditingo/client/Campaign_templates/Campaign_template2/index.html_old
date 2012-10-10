@@ -1,0 +1,46 @@
+<table width="703" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="http://192.168.1.19/AdtingoNew/Adtingo_client/Campaign_templates/Campaign_template2/images/logo.jpg" width="718" height="61" /></td>
+  </tr>
+  <tr>
+    <td height="542" align="left" valign="top" style="border:solid 1px #d6d6d6; background:#fff; font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#000000; padding:40px;"><table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size:12px; color:#000000; font-family:Arial, Helvetica, sans-serif;">
+      <tr>
+        <td height="30" align="left" valign="top"><a href="#DESTURL#" style="color:#0033FF;">#DESTURL#</a></td>
+      </tr>
+      <tr>
+        <td height="30" align="left" valign="top" style="font-size:18px; font-weight:bold;">#HEADING#</td>
+      </tr>
+      <tr>
+        <td height="30" align="left" valign="top" style="font-size:15px; font-weight:bold;">#SUBHEADING#</td>
+      </tr>
+      <tr>
+        <td height="30" align="left" valign="top">#TEXTCONTENT#</td>
+      </tr>
+      <tr>
+        <td height="30" align="left" valign="top">#CONTACTINFO#</td>
+      </tr>
+      <tr>
+        <td height="30" align="left" valign="top"><img src="Campaign_images/main_image/thumb_images/#MAINIMAGE#" /></td>
+      </tr>
+      <tr>
+        <td height="30" align="left" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="30" align="left" valign="top"><img src="Campaign_images/clickble_image/thumb_images/#CLICKBLEIMAGE#" /></td>
+      </tr>
+      <tr>
+        <td height="30" align="left" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="30" align="left" valign="top"><a href="#FACEBOOKLINK#" style="color:#0033FF;">#FACEBOOKLINK#</a></td>
+      </tr>
+      <tr>
+        <td height="30" align="left" valign="top"><a href="#TWITTERLINK#" style="color:#0033FF;">#TWITTERLINK#</a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="46" align="center" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#a6a7a7; background-color:#f1f3f2; border-left:solid 1px #d3d3d3; border-right:solid 1px #d3d3d3; border-bottom:solid 1px #d3d3d3;">© 2009 adtingo. All rights reserved.</td>
+  </tr>
+</table>
+

@@ -1,0 +1,85 @@
+.datepicker-calendar
+{
+    width: 210px;
+    height: 215px;
+    padding: 10px;
+    cursor: default;  
+    font-family: arial, tahoma, verdana;
+    font-size: 12px;  
+    background-color: #fff;
+    
+    -moz-border-radius: 5px; /* FF1+ */
+    -webkit-border-radius: 5px; /* Saf3+, Chrome */
+    border-radius: 5px; /* Opera 10.5, IE 9 */
+    
+    -moz-box-shadow: 2px 2px 4px rgba(0, 0, 0, .5); /* FF3.5+ */
+    -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, .5); /* Saf3.0+, Chrome */    
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, .5); /* Opera 10.5, IE 9.0 */
+    filter:  progid:DXImageTransform.Microsoft.dropshadow(OffX=0px, OffY=2px, Color='#666666'); /* IE6,IE7 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.dropshadow(OffX=0px, OffY=2px, Color='#666666')"; /* IE8 */
+}
+.datepicker-day-title, .datepicker-day
+{
+    width: 28px;
+    height: 28px;
+    line-height:  28px;
+    float: left;
+    text-align: center;
+    border: dashed 1px #fff;
+}
+.datepicker-day-title
+{
+    color: #5489C3;
+}
+.datepicker-container a
+{
+    text-decoration: none;
+    outline: none;
+    color: #000;    
+}
+.datepicker-controls
+{
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    width: 210px;
+    position: relative;
+    background-color: #5489C3;
+    color: #fff;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.datepicker-controls a
+{
+    color: #fff;
+    padding: 0px 15px;
+    position: absolute;
+    top: 0px;
+    font-size: 16px;
+}
+.datepicker-controls a.datepicker-previous
+{
+    left: 0px;
+}
+.datepicker-controls a.datepicker-next
+{
+    right: 0px;
+}
+.datepicker-calendar a.previous-month
+{
+    color: #ccc;
+}
+.datepicker-calendar a.next-month
+{
+    color: #ccc;
+}
+.datepicker-day.picked
+{
+    color: #fff;
+    background-color: #CC0101;
+    border: dashed 1px #CC0101;
+}
+.datepicker-day.today
+{
+    border: dashed 1px #ccc !important;
+}
