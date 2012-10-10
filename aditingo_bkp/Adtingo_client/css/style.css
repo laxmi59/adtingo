@@ -1,0 +1,62 @@
+@import"reset.css";
+/*==============================Header =======================================*/
+body{background:url(../images/bg_body-home.jpg) repeat-x !important;}
+.header{margin:0px auto !important; background:url(../images/nav-bg.jpg) center center; height:55px;}
+.header .nav{ width:960px; margin:0px auto !important; }
+.header .nav .logo{background:url(../images/logo.png) no-repeat; height:28px; width:211px; text-align:left; float:left; margin-top:13px;}
+.header .nav .logo a{display:block;}
+.header .nav .links{float:right; padding-top:11px; line-height:18px;}
+.header .nav .links ul {	float:left;	text-align:left;	font-family:Arial, Helvetica, sans-serif; 	list-style-type:none; }
+.header .nav .links ul li {	margin-bottom:0;	color:#ffffff !important;	float:left;	padding:5px 10px;	font-weight:bold;	font-size:12px;}
+.header .nav .links ul li a {	color:#ffffff !important;	text-decoration:none;}
+.header .nav .links ul li a:hover {	color:#7bdef3 !important;}
+.header .nav .links ul li a.active {	color:#7bdef3 !important;} 
+/*.header .nav .links{float:right;}
+.header .nav .links ul { background:url(../images/bg_nav-00-divider.png) no-repeat scroll 600px 11px transparent; 	height:55px; list-style:none outside none; position:relative;	width:740px;  }
+.header .nav .links ul li {	margin-bottom:0; list-style:none;}
+.header .nav .links ul li a { 	background-image:url(../images/bg_nav-00-home.png);	height:29px;	position:absolute;	top:15px;}
+.header .nav .links .pricing a {	background-position:-92px top;	right:237px;	width:68px;}
+.header .nav .links .pricing a:hover {	background-position:-92px center;}
+.header .nav .links .pricing a.current {	background-position:-92px bottom;}
+.header .nav .links .support a {	background-position:-342px top;	right:160px;	width:76px;}
+.header .nav .links .support a:hover {	background-position:-342px center;}
+.header .nav .links .support a.current {	background-position:-342px bottom;}
+.header .nav .links .signup a {	background-position:-610px center;	right:59px;	width:49px;}
+.header .nav .links .signup a.current {	background-position:-610px bottom;}
+.header .nav .links .login a {	background-position:-681px center;	right:0;	width:36px;}
+.header .nav .links .login a.current {	background-position:-681px bottom;}*/
+
+/*==============================banner =======================================*/
+.banner { background:url(../images/banner.jpg) no-repeat center center;	 	height:365px; margin:0px auto 27px auto !important ; display:block;}
+.banner h1 { background:url(../images/title_email-marketing-software-clients.png) no-repeat 13px 50px !important;	height:260px !important;   margin:0 auto !important;	position:relative;	right:auto;	top:0;	width:960px;}
+.banner h1 img{position:absolute;	right:12px;	top:32px;}
+/*==============================End Header =======================================*/
+  
+/*==============================EBody =======================================*/
+.body { width:960px; margin:0px auto !important; line-height:18px;  color:#636B75;} 
+.body .left-col {	display:inline;	float:left;	  margin-bottom:60px;}
+.body .left-col ul {	list-style:none; margin:0 0 0 -32px !important;	width:564px;}
+.body .left-col ul li {	display:inline;	float:left;	margin-bottom:27px;	margin-left:32px;	margin-right:0;	margin-top:0;	width:250px;}
+.body .left-col ul li a {	display:block;	margin-bottom:3px;}
+
+.body .right-col  {	float:right; width:390px; padding-right:10px;}
+.body .right-col .email .email-spacer {	height:10px !important;	line-height:10px;}
+.body .right-col .email p {	margin-bottom:8px !important;}
+.body .right-col .email .comments {	background:url(../images/comments.png) no-repeat 1px 2px;	padding-left:22px;	vertical-align:middle;	color:#9c9c9d;}
+/*==============================End Body =======================================*/
+  
+ /*==============================Footer =======================================*/
+.footer{ margin:0 auto 4px auto !important; text-align:left;	margin:0 auto; text-align:center; width:954px; background:url(../images/footer-bg.png) no-repeat scroll 0 0 transparent; padding:20px 20px 28px 20px;  display:block; overflow:hidden; line-height:18px;  }
+.footer .ftop {	border-bottom:1px solid #ECEEEE; margin-bottom:11px;	padding-bottom:12px; clear:both; overflow:hidden;}
+.footer .left-col{ float:left;}
+.footer .left-col ul li { color:#B0B0B0;	display:block;	font-size:13px;	padding-right:20px; float:left;}
+.footer .left-col ul li a {	font-weight:bold;}
+.footer .left-col ul li img {float:left;}
+.footer .left-col ul li span {float:left;	margin-left:6px;}
+
+.footer .right-col{ color:#B0B0B0; float:right; margin-top:1px; text-align:right;}
+.footer .right-col ul li {color:#B0B0B0; float:right; margin-top:1px;text-align:right; list-style:none;}
+.footer .right-col ul li img{ margin:0px 3px !important;  }
+.footer .right-col ul li a {color:#B0B0B0;text-decoration:underline;}
+.footer .right-col ul li a:hover {text-decoration:none;}
+/*==============================End Footer =======================================*/
